@@ -1,0 +1,37 @@
+body{
+    background-color: #2A5D5A;
+}
+.title{
+    background-color: #311313;
+    width: 280px;
+    margin: 40px auto;
+    color: white;
+  padding: 20px 20px;
+        
+   
+}
+.box1{
+    background-color: black;
+    width: 1000px;
+    height: 638px;
+    border: 10px solid #FF0606;
+    margin: auto;
+    padding: 20px;
+    padding: 30px 30px;
+}
+.box2{
+    background-color: #1FE8B7;
+    width: 999px;
+    height: 300px;
+    
+}
+.box3{
+      background-color: #1FE8B7;
+    width: 999px;
+    height: 300px;
+    margin: 29px auto;
+}
+.name1{
+   
+
+}
